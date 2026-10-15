@@ -1,0 +1,135 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-10-15",
+  "base_download_url": "https://github.com/chandrawardhana/aurora-asset-packs/releases/download",
+  "karakter": {
+    "release_tag": "karakter-v1.0",
+    "packs": [
+      {
+        "id": "indo-banget",
+        "name": "Indo Banget",
+        "description": "Karakter khas Indonesia: ibu rumpi, siswa SMA, warga biasa",
+        "version": "1.0",
+        "file_count": 174,
+        "size_mb": 51.1
+      },
+      {
+        "id": "japan",
+        "name": "Japan / Anime",
+        "description": "Karakter bergaya anime, model Jepang",
+        "version": "1.0",
+        "file_count": 71,
+        "size_mb": 17.3
+      },
+      {
+        "id": "komedi",
+        "name": "Komedi (Bencong + Warkop)",
+        "description": "Karakter komedi: bencong dan warkop",
+        "version": "1.0",
+        "file_count": 32,
+        "size_mb": 8.3
+      },
+      {
+        "id": "mbak-cantik",
+        "name": "Mbak Cantik",
+        "description": "Koleksi karakter wanita cantik",
+        "version": "1.0",
+        "file_count": 39,
+        "size_mb": 13.1
+      },
+      {
+        "id": "west-coast",
+        "name": "West Coast",
+        "description": "Karakter bergaya West Coast / Hip Hop",
+        "version": "1.0",
+        "file_count": 43,
+        "size_mb": 7.6
+      },
+      {
+        "id": "kendaraan",
+        "name": "Kendaraan",
+        "description": "Koleksi kendaraan berbagai jenis",
+        "version": "1.0",
+        "file_count": 19,
+        "size_mb": 5.7
+      },
+      {
+        "id": "outfit-ootd",
+        "name": "Outfit OOTD",
+        "description": "Referensi outfit dan fashion",
+        "version": "1.0",
+        "file_count": 6,
+        "size_mb": 1.8
+      },
+      {
+        "id": "cute-animal",
+        "name": "Cute Animal",
+        "description": "Karakter hewan lucu",
+        "version": "1.0",
+        "file_count": 15,
+        "size_mb": 3.8
+      },
+      {
+        "id": "chinese",
+        "name": "Chinese",
+        "description": "Karakter bergaya Cina / Tionghoa",
+        "version": "1.0",
+        "file_count": 82,
+        "size_mb": 25.4
+      },
+      {
+        "id": "aztek-maya-tribe",
+        "name": "Aztek Maya Tribe",
+        "description": "Karakter suku Aztek Maya",
+        "version": "1.0",
+        "file_count": 7,
+        "size_mb": 2.1
+      },
+      {
+        "id": "angling-darma",
+        "name": "Angling Darma",
+        "description": "Karakter Angling Darma",
+        "version": "1.0",
+        "file_count": 43,
+        "size_mb": 15.3
+      },
+      {
+        "id": "fighting-area",
+        "name": "Fighting Area",
+        "description": "Karakter area pertarungan: hero, monster, villain",
+        "version": "1.0",
+        "file_count": 130,
+        "size_mb": 26.2
+      },
+      {
+        "id": "horor",
+        "name": "Horor",
+        "description": "Karakter horor / menyeramkan",
+        "version": "1.0",
+        "file_count": 19,
+        "size_mb": 6.2
+      },
+      {
+        "id": "band",
+        "name": "Band",
+        "description": "Personel band / musisi",
+        "version": "1.0",
+        "file_count": 14,
+        "size_mb": 25.6
+      }
+    ]
+  },
+  "lokasi": {
+    "release_tag": "lokasi-v1.0",
+    "packs": [
+      {
+        "id": "lokasi-indonesia",
+        "name": "Lokasi & Latar Indonesia",
+        "description": "Background/latar khas Indonesia untuk drama",
+        "version": "1.0",
+        "file_count": 12,
+        "size_mb": 3.2
+      }
+    ]
+  }
+}
