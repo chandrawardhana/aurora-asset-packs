@@ -11,7 +11,10 @@
         "description": "Karakter khas Indonesia: ibu rumpi, siswa SMA, warga biasa",
         "version": "1.0",
         "file_count": 174,
-        "size_mb": 51.1
+        "size_mb": 51.1,
+        "price": 0,
+        "is_free": true,
+        "tier": "free"
       },
       {
         "id": "japan",
@@ -19,15 +22,21 @@
         "description": "Karakter bergaya anime, model Jepang",
         "version": "1.0",
         "file_count": 71,
-        "size_mb": 17.3
+        "size_mb": 17.3,
+        "price": 10000,
+        "is_free": false,
+        "tier": "paid"
       },
       {
         "id": "komedi",
-        "name": "Komedi (Bencong + Warkop)",
+        "name": "Komedi",
         "description": "Karakter komedi: bencong dan warkop",
         "version": "1.0",
         "file_count": 32,
-        "size_mb": 8.3
+        "size_mb": 8.3,
+        "price": 10000,
+        "is_free": false,
+        "tier": "paid"
       },
       {
         "id": "mbak-cantik",
@@ -35,7 +44,10 @@
         "description": "Koleksi karakter wanita cantik",
         "version": "1.0",
         "file_count": 39,
-        "size_mb": 13.1
+        "size_mb": 13.1,
+        "price": 10000,
+        "is_free": false,
+        "tier": "paid"
       },
       {
         "id": "west-coast",
@@ -43,7 +55,10 @@
         "description": "Karakter bergaya West Coast / Hip Hop",
         "version": "1.0",
         "file_count": 43,
-        "size_mb": 7.6
+        "size_mb": 7.6,
+        "price": 10000,
+        "is_free": false,
+        "tier": "paid"
       },
       {
         "id": "kendaraan",
@@ -51,7 +66,10 @@
         "description": "Koleksi kendaraan berbagai jenis",
         "version": "1.0",
         "file_count": 19,
-        "size_mb": 5.7
+        "size_mb": 5.7,
+        "price": 0,
+        "is_free": true,
+        "tier": "free"
       },
       {
         "id": "outfit-ootd",
@@ -59,7 +77,10 @@
         "description": "Referensi outfit dan fashion",
         "version": "1.0",
         "file_count": 6,
-        "size_mb": 1.8
+        "size_mb": 1.8,
+        "price": 10000,
+        "is_free": false,
+        "tier": "paid"
       },
       {
         "id": "cute-animal",
@@ -67,7 +88,10 @@
         "description": "Karakter hewan lucu",
         "version": "1.0",
         "file_count": 15,
-        "size_mb": 3.8
+        "size_mb": 3.8,
+        "price": 0,
+        "is_free": true,
+        "tier": "free"
       },
       {
         "id": "chinese",
@@ -75,7 +99,10 @@
         "description": "Karakter bergaya Cina / Tionghoa",
         "version": "1.0",
         "file_count": 82,
-        "size_mb": 25.4
+        "size_mb": 25.4,
+        "price": 10000,
+        "is_free": false,
+        "tier": "paid"
       },
       {
         "id": "aztek-maya-tribe",
@@ -83,7 +110,10 @@
         "description": "Karakter suku Aztek Maya",
         "version": "1.0",
         "file_count": 7,
-        "size_mb": 2.1
+        "size_mb": 2.1,
+        "price": 10000,
+        "is_free": false,
+        "tier": "paid"
       },
       {
         "id": "angling-darma",
@@ -91,7 +121,10 @@
         "description": "Karakter Angling Darma, Kolosal, Klasik, Era Kerajaan Nusantara",
         "version": "1.0",
         "file_count": 43,
-        "size_mb": 15.3
+        "size_mb": 15.3,
+        "price": 10000,
+        "is_free": false,
+        "tier": "paid"
       },
       {
         "id": "fighting-area",
@@ -99,7 +132,10 @@
         "description": "Karakter area pertarungan: hero, monster, villain",
         "version": "1.0",
         "file_count": 130,
-        "size_mb": 26.2
+        "size_mb": 26.2,
+        "price": 10000,
+        "is_free": false,
+        "tier": "paid"
       },
       {
         "id": "horor",
@@ -107,7 +143,10 @@
         "description": "Karakter horor / menyeramkan",
         "version": "1.0",
         "file_count": 19,
-        "size_mb": 6.2
+        "size_mb": 6.2,
+        "price": 10000,
+        "is_free": false,
+        "tier": "paid"
       },
       {
         "id": "band",
@@ -115,7 +154,10 @@
         "description": "Personel band / musisi",
         "version": "1.0",
         "file_count": 14,
-        "size_mb": 25.6
+        "size_mb": 25.6,
+        "price": 10000,
+        "is_free": false,
+        "tier": "paid"
       }
     ]
   },
@@ -128,7 +170,10 @@
         "description": "Background/latar khas Indonesia untuk drama",
         "version": "1.0",
         "file_count": 12,
-        "size_mb": 3.2
+        "size_mb": 3.2,
+        "price": 0,
+        "is_free": true,
+        "tier": "free"
       }
     ]
   }
